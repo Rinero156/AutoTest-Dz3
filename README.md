@@ -1,1 +1,1 @@
-# Project Sample
+# Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/236734qd6lngu7ae?svg=true)](https://ci.appveyor.com/project/Rinero156/autotest-dz3)
